@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: BookStore
+    env: dotnet
+    branch: main
+    region: oregon
+    rootDir: BulkyWeb # Or "." if your .csproj is in root
+    buildCommand: dotnet publish -c Release -o out
+    startCommand: dotnet out/BulkyWeb.dll
