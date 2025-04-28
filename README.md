@@ -35,4 +35,4 @@ Includes **user authentication** for secure access to management features.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/aminedev/BookStore.git
+git clone https://github.com/aminesdev/BookStore.git
