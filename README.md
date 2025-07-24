@@ -23,7 +23,7 @@ Includes **user authentication** for secure access to management features.
 
 - ASP.NET MVC
 - Entity Framework (for database interaction)
-- PostgreSQL (or LocalDB)
+- PostgreSQL
 - Razor Pages for dynamic HTML
 - Bootstrap for responsive design
 - Identity Framework for user authentication
